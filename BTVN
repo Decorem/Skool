@@ -1,0 +1,28 @@
+// Câu lệnh hello world
+
+#include <iostream>
+using namespace std;
+int main() {
+	cout << "Dit me lu duyet form";
+	return 0;
+}
+
+// Câu lệnh một ngày tốt lành
+
+#include <iostream>
+using namespace std;
+int main() {
+    string name = "duyet form";
+	cout << "Dit me" << name;
+	return 0;
+}
+
+// Câu lệnh tạm biệt
+
+include <iostream>
+using namespace std;
+int main() {
+    string name = "duyet form";
+	cout << "Dit ca lo nha" << name << "lu";
+	return 0;
+}
